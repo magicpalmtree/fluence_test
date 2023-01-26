@@ -53,7 +53,6 @@ contract GovernorContract is
   }
 
   // The following functions are overrides required by Solidity.
-
   function quorum(uint256 blockNumber)
     public
     view
